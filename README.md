@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://owaish3301.github.io/Social-proof-section/)
 
 ## My process
 
@@ -57,7 +57,7 @@ I learned a lot about CSS Grid in this challenge. I used grid-template-area to l
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ShadowKiD14)
+- Frontend Mentor - [@ShadowKiD14](https://www.frontendmentor.io/profile/ShadowKiD14)
 
 
 ## Acknowledgments
