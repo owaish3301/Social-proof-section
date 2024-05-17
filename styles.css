@@ -23,6 +23,7 @@ main{
 .flex-container{
     display: flex;
     flex-direction: column;
+    margin-bottom: 40px;
 }
 
 .site-overview{
@@ -122,6 +123,7 @@ main{
     .flex-container{
         flex-direction: row;
         justify-content: space-between;
+        margin-bottom: 100px;
     }
     .ratings{
         margin-top: 100px;
